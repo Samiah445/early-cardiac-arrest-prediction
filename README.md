@@ -1,7 +1,7 @@
-# 🫀 Early Cardiac Arrest Alert System
+#  Early Cardiac Arrest Alert System
 ### Real-Time Prediction using LSTM (Team Project)
 
-## 👥 Team Project
+##  Team Project
 This project was developed as part of the Machine Learning course (AI3201T) at Umm Al-Qura University.
 
 Supervisor: Dr. Afaf Almehmadi  
@@ -10,7 +10,7 @@ Semester: 1st Semester 2025
 
 ---
 
-## 📌 Overview
+##  Overview
 This project presents a real-time intelligent system for early prediction of cardiac arrest in emergency departments.
 
 The system continuously monitors patient vital signs:
@@ -24,7 +24,7 @@ A Long Short-Term Memory (LSTM) model is used to analyze time-series data and pr
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Early detection of high-risk patients  
 - Reduce response time in emergency situations  
 - Provide explainable predictions using SHAP  
@@ -32,7 +32,7 @@ A Long Short-Term Memory (LSTM) model is used to analyze time-series data and pr
 
 ---
 
-## 🧠 Methodology
+##  Methodology
 - Data preprocessing (handling missing values & noise)
 - Time-series modeling using LSTM
 - Sliding window sequences (T=5)
@@ -42,7 +42,7 @@ A Long Short-Term Memory (LSTM) model is used to analyze time-series data and pr
 
 ---
 
-## ⚙️ Features
+##  Features
 - Real-time monitoring system  
 - Early prediction (10–30 minutes ahead)  
 - Multi-variable input (vital signs + demographics)  
@@ -51,7 +51,7 @@ A Long Short-Term Memory (LSTM) model is used to analyze time-series data and pr
 
 ---
 
-## 📊 Results
+##  Results
 - Accuracy: 98.3%
 - ROC-AUC: 0.999
 - Strong precision and recall for both classes
@@ -61,7 +61,7 @@ A Long Short-Term Memory (LSTM) model is used to analyze time-series data and pr
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 - Synthetic dataset (limited real-world data)
 - Possible overfitting
 - Requires continuous accurate vital signs
@@ -69,7 +69,7 @@ A Long Short-Term Memory (LSTM) model is used to analyze time-series data and pr
 
 ---
 
-## 🚀 Future Work
+##  Future Work
 - Use real multi-hospital datasets  
 - Integrate with hospital monitoring systems  
 - Build web/mobile dashboard  
@@ -77,14 +77,13 @@ A Long Short-Term Memory (LSTM) model is used to analyze time-series data and pr
 
 ---
 
-## 📄 Full Report
-👉 See full project report: report.pdf
+##  Full Report
+ See full project report: report.pdf
 
 ---
 
-## 🎯 My Contribution (Samia AlMalki)
-- Worked on LSTM model development for time-series prediction  
-- Data preprocessing and feature engineering  
+##  My Contribution 
+- Worked on LSTM model development for time-series prediction   
 - Contributed to model evaluation and performance analysis  
 
 ---
